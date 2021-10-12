@@ -15,7 +15,6 @@ body {
   margin: 0px 0px 0px 80px;
 }
 header {
- width: 100vw;
  height: 100vh;
 }
 
@@ -87,6 +86,7 @@ header {
 
 .menu ul {
   display: flex;
+  margin-right:80px ;
 }
 
 .menu li {
